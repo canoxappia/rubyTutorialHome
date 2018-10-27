@@ -1,24 +1,7 @@
-# README
+# Ruby on Rails Tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This tutorial I've been doing it from Home on a MAC os.
 
-Things you may want to cover:
+'My goal is learning medium-advanced skills in Ruby on Rails and Git technologies in a period of 1 month (Nov 2019)ss'
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Alfonso Cano - 27/10/2018
